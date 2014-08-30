@@ -1,4 +1,4 @@
 fidilio-data
 ============
 
-fidilodb
+Fidilio.com data extracted to mongo json files. They may require cleaning.
